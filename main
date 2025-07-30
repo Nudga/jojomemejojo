@@ -1,12 +1,90 @@
 <!DOCTYPE html>
-<html>
+<html lang="uk">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="p:domain_verify" content="eedb438ef98d0e89c0fe797c966b1249">
-  <title>ДжоДжо меми українською</title>
+  <meta name="description" content="Офіційний сайт каналу JojoMemeJojo. Знайди нас у Telegram, Instagram, TikTok, YouTube та інших платформах.">
+
+  <!-- OG tags -->
+  <meta property="og:title" content="JojoMemeJojo — офіційні соцмережі">
+  <meta property="og:description" content="Україномовні меми, JoJo, гумор і творчість. Знайди нас у соцмережах.">
+  <meta property="og:url" content="https://nudga.github.io/jojomemejojo-site">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://nudga.github.io/jojomemejojo-site/logo.png">
+
+  <title>JojoMemeJojo — Офіційний сайт</title>
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #9A8FFF;
+      margin: 0;
+      padding: 40px 20px;
+      text-align: center;
+      color: #ffffff;
+    }
+
+    img.logo {
+      max-width: 160px;
+      margin-bottom: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+      font-size: 2.8em;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 1.2em;
+      margin-bottom: 30px;
+    }
+
+    .social-links {
+      margin-top: 20px;
+    }
+
+    .social-links a {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 24px;
+      background-color: #ffffff;
+      color: #4b3f9c;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+      font-size: 1em;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    .social-links a:hover {
+      background-color: #e0dcff;
+      color: #2f2978;
+    }
+
+    .footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #eaeaea;
+    }
+  </style>
 </head>
 <body>
-  <h1>Офіційний сайт каналу "ДжоДжо меми українською"</h1>
-  <p>Наш канал у Telegram: <a href="https://t.me/jojomemejojo">t.me/jojomemejojo</a></p>
+  <img src="logo.png" alt="Логотип JojoMemeJojo" class="logo">
+  <h1>JojoMemeJojo</h1>
+  <p>Офіційний сайт каналу. Слідкуй за нами у соцмережах 👇</p>
+
+  <div class="social-links">
+    <a href="https://t.me/jojomemejojo" target="_blank">Telegram</a>
+    <a href="https://www.instagram.com/jojomemejojo?igsh=YmZuMmNwc2hpb2t0" target="_blank">Instagram</a>
+    <a href="https://youtube.com/@jojomemejojo" target="_blank">YouTube</a>
+    <a href="https://www.tiktok.com/@jojo.meme6?_t=ZM-8ySSqQmHeg1&_r=1" target="_blank">TikTok</a>
+  </div>
+
+  <div class="footer">
+    © 2025 JojoMemeJojo — всі права захищено
+  </div>
 </body>
 </html>
